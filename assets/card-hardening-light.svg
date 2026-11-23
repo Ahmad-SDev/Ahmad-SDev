@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="226" viewBox="0 0 480 226" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+  <defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#0e9f9b"/></linearGradient>
+    <clipPath id="c"><rect x="1" y="1" width="478" height="210" rx="16"/></clipPath></defs>
+  <rect x="1" y="1" width="478" height="210" rx="16" fill="#ffffff"/>
+  <rect x="0" y="0" width="480" height="5" fill="url(#edge)" clip-path="url(#c)"/>
+  <rect x="1" y="1" width="478" height="210" rx="16" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+  <g transform="translate(20,22) scale(.82)"><path d="M26 6l16 6v10c0 10-7 17-16 20-9-3-16-10-16-20V12z" fill="none" stroke="#1f6feb" stroke-width="3" stroke-linejoin="round"/><path d="M19 24l5 5 9-10" fill="none" stroke="#0e9f9b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="70" y="52" font-size="22" font-weight="700" fill="#1b2a4a">linux-server-hardening</text>
+  <text x="452" y="52" text-anchor="end" font-size="22" fill="#56657d">↗</text>
+  <text x="28" y="108" font-size="17" fill="#56657d">Lockout-safe, one-command hardening</text><text x="28" y="134" font-size="17" fill="#56657d">for Debian/Ubuntu servers.</text>
+  <rect x="28" y="160" width="46" height="28" rx="14" fill="#e7f0ff"/><text x="51" y="179" text-anchor="middle" font-size="14" font-weight="600" fill="#1f5fbf">SSH</text><rect x="81.8" y="160" width="89" height="28" rx="14" fill="#e7f0ff"/><text x="126" y="179" text-anchor="middle" font-size="14" font-weight="600" fill="#1f5fbf">nftables</text><rect x="178.6" y="160" width="89" height="28" rx="14" fill="#e7f0ff"/><text x="223" y="179" text-anchor="middle" font-size="14" font-weight="600" fill="#1f5fbf">fail2ban</text><rect x="275.4" y="160" width="54" height="28" rx="14" fill="#e7f0ff"/><text x="303" y="179" text-anchor="middle" font-size="14" font-weight="600" fill="#1f5fbf">Bash</text>
+</svg>
