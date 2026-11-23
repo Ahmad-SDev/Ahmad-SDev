@@ -27,7 +27,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/honeycomb-dark.svg">
-    <img src="assets/honeycomb-light.svg" width="761" alt="Linux, Debian, Ubuntu, CentOS, Windows, Proxmox, Bash, Python, Docker, Kubernetes, Jenkins, Git, nginx, AWS, Cloudflare, C, C++, C#, .NET, Java, Unity, Node.js, TypeScript, PHP, Laravel, React, Tailwind, MySQL, MariaDB, Redis, Virtualizor, WHMCS, cPanel, Pterodactyl, Hetzner, QEMU/KVM">
+    <img src="assets/honeycomb-light.svg" width="761" alt="Linux, Debian, Ubuntu, CentOS, Windows, Bash, Python, Proxmox, Docker, Kubernetes, Jenkins, Git, nginx, AWS, Cloudflare, C, C++, C#, .NET, Java, Unity, Node.js, TypeScript, PHP, Laravel, React, Tailwind, MySQL, MariaDB, Oracle, Virtualizor, WHMCS, cPanel, Pterodactyl, Hetzner, QEMU/KVM, Redis">
   </picture>
 </p>
 
