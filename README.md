@@ -27,7 +27,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <img src="assets/stack-light.svg" width="572" alt="Linux, Debian, Ubuntu, Proxmox, Bash, Python, Docker, Kubernetes, nginx, AWS, Cloudflare, PHP, Laravel, React, TypeScript, MySQL, Redis">
+    <img src="assets/stack-light.svg" width="761" alt="Linux, Debian, Ubuntu, CentOS, Windows, Proxmox, Bash, Python, Docker, Kubernetes, Jenkins, Git, nginx, AWS, Cloudflare, C, C++, C#, .NET, Java, Unity, Node.js, TypeScript, PHP, Laravel, React, Tailwind, MySQL, MariaDB, Redis, Virtualizor, WHMCS, cPanel, Pterodactyl, Hetzner, QEMU/KVM">
   </picture>
 </p>
 
