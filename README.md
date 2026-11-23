@@ -22,12 +22,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,docker,kubernetes,aws,cloudflare,nginx,jenkins,git,python&perline=12&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cdebian%2Cubuntu%2Cbash%2Cdocker%2Ckubernetes%2Caws%2Ccloudflare%2Cnginx%2Cjenkins%2Cgit%2Cpython&perline=12&theme=dark">
     <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,docker,kubernetes,aws,cloudflare,nginx,jenkins,git,python&perline=12&theme=light" alt="Linux, Debian, Ubuntu, Bash, Docker, Kubernetes, AWS, Cloudflare, Nginx, Jenkins, Git, Python">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,react,ts,tailwind,mysql,redis,cpp,cs,dotnet,java,unity&perline=12&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Creact%2Cts%2Ctailwind%2Cmysql%2Credis%2Ccpp%2Ccs%2Cdotnet%2Cjava%2Cunity&perline=12&theme=dark">
     <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,tailwind,mysql,redis,cpp,cs,dotnet,java,unity&perline=12&theme=light" alt="PHP, Laravel, React, TypeScript, Tailwind, MySQL, Redis, C++, C#, .NET, Java, Unity">
   </picture>
 </p>
